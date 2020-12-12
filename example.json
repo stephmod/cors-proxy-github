@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Duke",
+        "breed": "Doberman Shepherd",
+        "age": 7
+    },
+    {
+        "name": "Cody",
+        "breed": "Schnauzer Poodle",
+        "age": 14
+    }
+]
