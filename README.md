@@ -8,6 +8,6 @@ The Firebase cloud function is live to use. Simply replace the URL parameters wi
 
     curl https://us-central1-cors-proxy-github.cloudfunctions.net/app/stephmod/cors-proxy-github/example
 
-### Inspiration
+### Resource
 
 https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9
