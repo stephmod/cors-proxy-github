@@ -1,6 +1,6 @@
 # cors-proxy-github
 
-I recently ran into a CORS error when making requests to GitHub from a client-side application in development. As a solution, I built a Firebase cloud function to serve as a proxy, using express middleware to add a necessary `Access-Control-Allow-Origin: *` header. The function then returns the requested JSON data to the application.
+I ran into a CORS error when making requests to GitHub from a client-side application in development. As a solution, I built a Firebase cloud function to serve as a proxy, using express middleware to add a necessary `Access-Control-Allow-Origin: *` header. The function then returns the requested JSON data to the application.
 
 ### Try it out!
 
